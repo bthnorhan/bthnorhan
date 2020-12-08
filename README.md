@@ -41,3 +41,5 @@
 [twitter]: https://twitter.com/bthnorhann
 [instagram]: https://instagram.com/bthnorhan
 [linkedin]: https://linkedin.com/in/bthnorhan
+
+![](https://komarev.com/ghpvc/?username=bthnorhan)
