@@ -1,7 +1,8 @@
 
 ### Hello. I am [batuhanorhan][website]. 👋
 
-## I am an electrical and electronic engineer. I develop mobile and web applications.
+- I am an electrical and electronic engineer. 
+- I develop mobile and web applications.
 - I am currently working at Innovance Consultancy.
 - I try to improve myself and I am always open to innovations.
 - You can contact me. ➡️ **bthnorhan00@gmail.com** or ⬇️
