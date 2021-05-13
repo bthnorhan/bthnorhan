@@ -37,7 +37,7 @@
 ![](https://komarev.com/ghpvc/?username=bthnorhan)
 <br />
 
-<img align="left" alt="bthnorhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bthnorhan&show_icons=true&hide_border=true" />
+<img align="left" alt="bthnorhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bthnorhan&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://batuhanorhan.com
 [twitter]: https://twitter.com/bthnorhann
