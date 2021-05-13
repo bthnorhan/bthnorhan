@@ -38,6 +38,8 @@
 <br />
 
 <img align="left" alt="bthnorhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bthnorhan&show_icons=true&hide_border=true&theme=dark" />
+<img align="right" alt="bthnorhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bthnorhan&layout=compact" />
+
 
 [website]: https://batuhanorhan.com
 [twitter]: https://twitter.com/bthnorhann
