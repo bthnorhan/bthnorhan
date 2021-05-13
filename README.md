@@ -1,7 +1,7 @@
 ### Merhabalar. Ben Batuhan. - [batuhanorhan][website] 👋
 
 ## Elektrik-Elektronik mühendisiyim. Mobil ve web uygulamaları geliştiriyorum.
-- Şu anda Innovance firmasında çalışmaktayım.
+- Şu anda Innovance Danışmanlık firmasında çalışmaktayım.
 - Kendimi geliştirmeye çalışıyorum ve yeniliklere her zaman açığım.
 
 ### Benimle İletişime Geç:
