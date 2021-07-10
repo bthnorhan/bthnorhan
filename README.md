@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working at **Innovance Consultancy**
 
-- 💪 I develop mobile and web applications **.**
+- 💪 I develop mobile and web applications.
 
-- 👨‍💻 I try to improve myself and I am always open to innovations **.**
+- 👨‍💻 I try to improve myself and I am always open to innovations.
 
 - 💬 Ask me about **React and React Native**
 
