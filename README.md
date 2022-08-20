@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bthnorhann" target="blank"><img src="https://img.shields.io/twitter/follow/bthnorhann?logo=twitter&style=for-the-badge" alt="bthnorhann" /></a> </p>
 
-- 🔭 I’m currently working at **Innovance Consultancy**
+- 🔭 I’m currently working at **Payten**
 
 - 💪 I develop mobile and web applications
 
