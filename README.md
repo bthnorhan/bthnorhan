@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working at **Payten**
+- 🔭 I’m currently working at **Tribe**
 
 - 💪 I develop mobile and web applications
 
